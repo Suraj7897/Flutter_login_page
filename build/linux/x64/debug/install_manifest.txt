@@ -1,0 +1,13 @@
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/clean_city
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/suraj/Flutter/clean_city/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
